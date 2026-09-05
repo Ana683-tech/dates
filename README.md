@@ -1,4 +1,4 @@
-# 💅 Datess - Sistema de Reservas para Servicios
+# 💅 Dates - Sistema de Reservas para Servicios
 
 Una aplicación web para gestionar reservas de citas y servicios
 
