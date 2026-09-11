@@ -11,3 +11,10 @@ visual y viceversa
 Node.js
 Express .js
 Primsa ORM
+
+PDF PARA CONSULTAR LA ACTIVIDAD
+
+file:///C:/Users/Ana/Documents/Dise%C3%B1o%20de%20Base%20de%20Datos%20y%20Consumo%20mediante%20API%20REST.pdf
+
+
+
